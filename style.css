@@ -1,0 +1,80 @@
+body
+{
+    background-color: rgb(210, 226, 221);}
+#titulo
+{
+    color: rgb(112, 13, 13);
+    font-size:5em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#cabecera
+{
+    background-color: rgb(173, 184, 187);
+    font-size: 2em;
+    color: rgb(112, 13, 13)
+}
+#frase
+{
+    font-size: 2em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(128, 136, 138)
+}
+#frase2
+{
+    font-size: 3em;  
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(128, 136, 138)
+}
+.carousel
+{
+    width: 400px;
+    margin: 0 auto;
+}
+.titulocontacto
+{
+    color: brown
+}
+.subtitulo
+{
+    color: brown
+}
+.nombre
+{
+    color: brown;
+    font-size: 2em
+}
+.email
+{
+    color: brown;
+    font-size: 2em
+}
+.tema
+{
+    color: brown;
+    font-size: 2em
+}
+.mensaje
+{
+    color: brown;
+    font-size: 2em
+}
+.enviar
+{
+    font-size: 3em;
+    color: blue
+}
+.sevilla
+{
+    font-size: 2em;
+    color: brown
+}
+.telefono
+{
+    font-size: 2em;
+    color: brown
+}
+.nperez
+{
+    font-size: 2em;
+    color: brown
+}
